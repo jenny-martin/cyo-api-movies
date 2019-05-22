@@ -26,7 +26,7 @@ function show(req, res) {
       });
     });
   });
-}
+ }
 
 function newMovie(req, res) {
   res.render('movies/new', { title: 'Add Movie' });

@@ -1,5 +1,4 @@
 var Movie = require('../../models/movie');
-var Performer = require('../../models/performer');
 
 module.exports = {
   getAllMovies,
